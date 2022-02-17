@@ -36,4 +36,4 @@ git add .
 git commit -m "add"
 git push
 ```
-
+wait 2 min for deploy
