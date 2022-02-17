@@ -1,4 +1,4 @@
-baseurl = "https://brainandmachine.github.io"
+baseurl = "https://wenting-wang.github.io/"
 title = "Brain and Machine"
 languageCode = "en-us"
 paginate = "10" # Number of posts per page
@@ -8,7 +8,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
 [Author]
   name = "Wenting Wang"
-  bio = "Wenting's cyberspace. Mind fragments of neuroscience, coding, music."
+  bio = "Wenting's cyberspace. Fragments about neuroscience, coding, music."
   avatar = "img/avatar.png"
 
 [Params]
