@@ -6,13 +6,7 @@ set -e
 # Print out commands before executing them
 set -x
 
-printf "\033[0;32mDeploying updates to GitHub...\033[0m\n"
-
-# Build the project.
-hugo -t mainroad
-
-# Go To Public folder
-cd public
+printf "\033[0;32mSync blog data to GitHub...\033[0m\n"
 
 # Add changes to git.
 git add .
@@ -25,10 +19,4 @@ fi
 git commit -m "$msg"
 
 # Push source and build repos.
-git push origin main
-
-# Back to the origin folder
-cd ..
-
-# remove the local public folder
-rm -rf public
+git push
