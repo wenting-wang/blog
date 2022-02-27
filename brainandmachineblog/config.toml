@@ -6,13 +6,25 @@ theme = "mainroad"
 disqusShortname = "" # Enable comments by entering your Disqus shortname
 googleAnalytics = "" # Enable Google Analytics by entering your tracking id
 
+[menu]
+[[menu.main]]
+  identifier = 'home'
+  name = 'Home'
+  url = '/'
+  weight = 1
+[[menu.main]]
+  identifier = 'about'
+  name = 'About'
+  url = '/about/'
+  weight = 2
+
 [Author]
-  name = "Wenting Wang"
-  bio = "Wenting's cyberspace. Fragments about neuroscience, coding, music."
-  avatar = "img/avatar.png"
+  name = "Wenting Wang 王文婷"
+  bio = "Student in Computational Neuroscience. Flute player. Tea lover."
+  avatar = "/img/wenting-img.png"
 
 [Params]
-  description = "Wenting's cyberspace about everything" # Description of your site
+  description = "This site records pieces of productions of wenting's brain." # Description of your site
   opengraph = true
   twitter_cards = false
   readmore = false # Show "Read more" button in list if true
@@ -22,7 +34,7 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   mainSections = ["post", "docs"]
 
 [Params.logo]
-  subtitle = "Maybe her brain is writng something. Nobody knows it." # Logo subtitle
+  subtitle = "Wenting's virtual space" # Logo subtitle
 
 [Params.sidebar]
   home = "right"   # Configure layout for home page
