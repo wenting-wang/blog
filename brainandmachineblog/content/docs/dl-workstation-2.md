@@ -47,7 +47,7 @@ Win10装好后，用Rufus或balenaEtcher制作装Ubuntu的U盘，ISO Image选择
 
 ## 深度学习工作站搭建系列
 
-[深度学习工作站搭建记录 - 1/3 硬件篇]()
+[深度学习工作站搭建记录 - 1/3 硬件篇](https://wenting-wang.github.io/docs/dl-workstation-1/)
 
-[深度学习工作站搭建记录 - 3/3 环境篇]()
+[深度学习工作站搭建记录 - 3/3 环境篇](https://wenting-wang.github.io/docs/dl-workstation-3/)
 

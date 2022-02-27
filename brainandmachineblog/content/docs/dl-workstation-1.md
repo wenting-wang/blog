@@ -54,6 +54,6 @@ tags:
 
 ## 深度学习工作站搭建系列
 
-[深度学习工作站搭建记录 - 2/3 系统篇]()
+[深度学习工作站搭建记录 - 2/3 系统篇](https://wenting-wang.github.io/docs/dl-workstation-2/)
 
-[深度学习工作站搭建记录 - 3/3 环境篇]()
+[深度学习工作站搭建记录 - 3/3 环境篇](https://wenting-wang.github.io/docs/dl-workstation-3/)
