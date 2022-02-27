@@ -24,13 +24,14 @@ Now | Research Assistant, Siemens Imaging Center, Germany
 
 ## Education
 
-Now - M.Sc. Neuroscience, University Tuebingen, Germany
+Now | M.Sc. Neuroscience, University Tuebingen, Germany
 
-2019 - M.Sc. Data Science, University Konstanz, Germany
+2019 | M.Sc. Data Science, University Konstanz, Germany
 
-2016 - B.Sc. Statistics, Southwestern University of Finance and Economics, China
+2016 | B.Sc. Statistics, Southwestern University of Finance and Economics, China
 
 ## Contact
 
-Email: wenting.wang.cd@outlook.com
+Twitter: https://twitter.com/wentingw2
 
+Email: wenting.wang.cd@outlook.com
