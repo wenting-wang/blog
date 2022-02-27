@@ -12,11 +12,19 @@ Hi there, I am Wenting Wang. I am a master student in the Graduate School of Neu
 
 My research focuses on mechanisms on brain functions and dysfunctions - from computational neuroscience perspectives. I use neuroimaging data and machine learning and bayesian statistics as a model system. I am passionate about broad questions in cognitive and neuroscience, improvisational music(flute, guitar) and dance(picking up tribal dance recently). Never said no to tea.
 
-A bit more about me: [CV]()
+A bit more about me: [Curriculum Vitae]()
+
+## Work
+
+Now | Research Assistant, Siemens Imaging Center, Germany
+
+2020 - 2021 | Data Analyst, R&D Hub, Sanofi, China
+
+2020 | Research Intern, Continental AI Lab, Germany
 
 ## Education
 
-Ongoing - M.Sc. Neuroscience, University Tuebingen, Germany
+Now - M.Sc. Neuroscience, University Tuebingen, Germany
 
 2019 - M.Sc. Data Science, University Konstanz, Germany
 
