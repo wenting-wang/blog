@@ -12,7 +12,7 @@ Hi there, I am Wenting Wang. I am a master student in the Graduate School of Neu
 
 My research focuses on mechanisms on brain functions and dysfunctions - from computational neuroscience perspectives. I use neuroimaging data and machine learning and bayesian statistics as a model system. I am passionate about broad questions in cognitive and neuroscience, improvisational music(flute, guitar) and dance(picking up tribal dance recently). Never said no to tea.
 
-A bit more about me: [Curriculum Vitae]()
+A bit more about me: [Curriculum Vitae](https://docs.google.com/viewer?url=https://github.com/wenting-wang/wenting-wang.github.io/raw/main/docu/wenting-wang-cv.pdf)
 
 ## Work
 
