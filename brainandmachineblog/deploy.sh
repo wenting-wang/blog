@@ -31,4 +31,5 @@ git push origin main
 cd ..
 
 # remove the local public folder
+git rm --cached public
 rm -rf public
