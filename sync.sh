@@ -6,7 +6,7 @@ set -e
 # Print out commands before executing them
 set -x
 
-printf "\033[0;32mSync blog data to GitHub...\033[0m\n"
+printf "Sync blog data to GitHub..."
 
 # Add changes to git.
 git add .
