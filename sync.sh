@@ -1,12 +1,15 @@
 #!/bin/sh
 
+# Use:
+# ./sync.sh "commit messages"
+
 # If a command fails then the deploy stops
 set -e
 
 # Print out commands before executing them
 set -x
 
-printf "Sync blog data to GitHub..."
+# printf "\033[0;32mSync blog data to GitHub...\033[0m\n"
 
 # Add changes to git.
 git add .
