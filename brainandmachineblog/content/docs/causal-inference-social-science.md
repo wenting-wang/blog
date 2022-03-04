@@ -9,17 +9,9 @@ tags:
 - "中文"
 ---
 
-相关性不能说明因果。几乎完全依赖于观察，很少做对照实验的社会科学，又怎么度量因果呢？这里做一些简短的梳理。
+相关性不能说明因果。几乎完全依赖于观察，很少做对照实验的社会科学，又怎么度量因果呢？关键在处理混杂因素（Confounder）。这里稍作整理，粗略梳理了一下社会科学中因果推断（Causal Inference）的常用方法，再附上一些实例：
 
 <!--more-->
-
-以下两本书，基本上梳理了因果推断（Causal Inference）在社会科学的发展脉络。前一本重在概念，后一本重在实例。
-
-Morgan, Stephen L., and Christopher Winship. 2015. Counterfactuals and Causal Inference. Methods and Principles for Social Research. 2nd ed. Cambridge: Cambridge University Press.
-
-Dunning, Thad. 2012. Natural Experiments in the Social Sciences. A Design-Based Approach. Cambridge: Cambridge University Press.
-
-关键在处理混杂因素（Confounder），粗略理了一下方法，再附上一些实例：
 
 1. 实验 Experiment
 
@@ -61,3 +53,10 @@ RDD又有精确（Sharp RDD）和模糊(Fuzzy RDD)，上面的例子是Sharp RDD
 
 其次，一些研究重新回到了探索因果机理（Causal mechanism），而不只局限于研究因果效应（Causal effect）的存在和大小。举个例子，假设，恐袭新闻导致当地民众反对外来移民，我们想要知道这个假设是不是对的，程度大不大，同时，我们也想知道这中间的原理是什么，新闻导致恐慌进而导致反对情绪，还是新闻导致反恐开支增加进而导致反对情绪。重点在分解直接因果和间接因果，间接因果即假设的机理，然而传统方法中介研究Causal mediation analysis(Barron, Kenny 1986)有可能因为受到无法观测变量的干扰，得出错误的结论。近年序列可忽略假设（Sequential ignorability assumption）提出后，再加上Pearl的图，因果分解变得容易不少。
 
+## 参考资料
+
+以下两本书梳理了因果推断在社会科学的发展脉络。前一本重在概念，后一本重在实例，非常值得参考翻阅。
+
+Morgan, Stephen L., and Christopher Winship. 2015. Counterfactuals and Causal Inference. Methods and Principles for Social Research. 2nd ed. Cambridge: Cambridge University Press.
+
+Dunning, Thad. 2012. Natural Experiments in the Social Sciences. A Design-Based Approach. Cambridge: Cambridge University Press.
