@@ -8,15 +8,15 @@ menu: about
 
 ![wenting-img](/img/wenting-img.png)
 
-Hi there, I am Wenting Wang. I am a master student in the Graduate School of Neural Information Processing at the University Tuebingen, meanwhile working as a research assistant at Siemens Imaging Center at the University Hospital.
+Hi there, I am Wenting Wang. I am a master student in the Graduate School of Neural Information Processing at the University Tuebingen, meanwhile working as a research assistant at MPI Cybernetics and Tuebingen Hospital.
 
-My research focuses on mechanisms on brain functions and dysfunctions - from computational neuroscience perspectives. I use neuroimaging data and machine learning and bayesian statistics as a model system. I am passionate about broad questions in cognitive and neuroscience, improvisational music(flute, guitar) and dance(picking up tribal dance recently). Never said no to tea.
+My research focuses on mechanisms on brain functions and dysfunctions - from computational neuroscience perspectives. I use decision making and neuroimaging data, and reinforcement learning to model the process. I am passionate about broad questions in cognitive and neuroscience, improvisational music(flute, guitar) and travel around.
 
 A bit more about me: [Curriculum Vitae](https://docs.google.com/viewer?url=https://github.com/wenting-wang/wenting-wang.github.io/raw/main/docu/wenting-wang-cv.pdf)
 
 ## Work
 
-Now | Research Assistant, Siemens Imaging Center, Germany
+Now | Research Assistant, MPI Cybernetics and Tuebingen Hospital Psychiatry, Germany
 
 2020 - 2021 | Data Analyst, R&D Hub, Sanofi, China
 
