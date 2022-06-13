@@ -8,7 +8,7 @@ menu: about
 
 ![wenting-img](/img/wenting-img.png)
 
-Hi there, I am Wenting Wang. I am a master student in the Graduate School of Neural Information Processing at the University Tuebingen, meanwhile working as a research assistant at MPI Cybernetics and Tuebingen Hospital.
+Hi there, I am Wenting Wang 王文婷. I am a master student in the Graduate School of Neural Information Processing at the University Tuebingen, meanwhile working as a research assistant at MPI Cybernetics and Tuebingen Hospital.
 
 My research focuses on mechanisms on brain functions and dysfunctions - from computational neuroscience perspectives. I use decision making and neuroimaging data, and reinforcement learning to model the process. I am passionate about broad questions in cognitive and neuroscience, improvisational music(flute, guitar) and travel around.
 
