@@ -1,7 +1,7 @@
 ---
 title:  深度学习工作站搭建记录 - 3/3 环境篇
 date: 2019-06-30
-authorbox: true
+authorbox: false
 categories:
 - "Data Science"
 tags:

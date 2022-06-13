@@ -1,7 +1,7 @@
 ---
 title:   社会科学研究中的因果推断
 date: 2022-03-04
-authorbox: true
+authorbox: false
 categories:
 - "Data Science"
 tags:

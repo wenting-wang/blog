@@ -1,7 +1,7 @@
 ---
 title:  深度学习工作站搭建记录 - 1/3 硬件篇
 date: 2019-06-21
-authorbox: true
+authorbox: false
 categories:
 - "Data Science"
 tags:

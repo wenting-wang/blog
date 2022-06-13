@@ -1,7 +1,7 @@
 ---
 title:  深度学习工作站搭建记录 - 2/3 系统篇
 date: 2019-06-29
-authorbox: true
+authorbox: false
 categories:
 - "Data Science"
 tags:
