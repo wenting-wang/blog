@@ -33,6 +33,9 @@ googleAnalytics = "" # Enable Google Analytics by entering your tracking id
   pager = true
   post_meta = ["date", "categories"] # Order of post meta information
   mainSections = ["post", "docs"]
+  mathjax = true # Enable MathJax
+  mathjaxPath = "https://cdn.mathjax.org/mathjax/latest/MathJax.js" # Specify MathJax path
+  mathjaxConfig = "TeX-AMS-MML_SVG" # MathJax config
 
 [Params.logo]
   subtitle = "Wenting's virtual space" # Logo subtitle
