@@ -10,6 +10,10 @@ tags:
 - "Bayesian"
 ---
 
+Install Hierachical Drift Diffusion Model via Conda.
+
+<!--more-->
+
 > HDDM is a python toolbox for hierarchical Bayesian parameter estimation of the Drift Diffusion Model (via PyMC). Drift Diffusion Models are used widely in psychology and cognitive neuroscience to study decision making.(https://github.com/hddm-devs/hddm)
 
 ## How to install HDDM
