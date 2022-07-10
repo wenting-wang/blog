@@ -7,7 +7,6 @@ categories:
 tags:
 - "Deep Learning"
 - "Machine Learning"
-- "中文"
 ---
 
 安装记录：Nvidia Driver + CUDA + cuDNN + Anaconda + Tensorflow GPU  + PyCharm。至今摸索出的最快捷的方法。

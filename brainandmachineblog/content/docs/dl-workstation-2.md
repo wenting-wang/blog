@@ -7,7 +7,6 @@ categories:
 tags:
 - "Deep Learning"
 - "Machine Learning"
-- "中文"
 ---
 
 烧个双系统（Windows 10 + Ubuntu 18.04.2 LTS），工作游戏双倍快乐。
